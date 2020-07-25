@@ -1,0 +1,72 @@
+body {
+    background: black;
+    margin-top: 70px;
+}
+
+.post {
+    background: white;
+    width: 455px;
+    height: 620px;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerLeaft {
+    display: flex;
+}
+
+.parrafossuperiores {
+    margin-right: 300px;
+}
+
+.fa-html5 {
+    color: black;
+    font-size: 27px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 5px;
+}
+
+.fa-ellipsis-v {
+    font-size: 28px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+.tres {
+    display: flex;
+}
+
+.iconospie {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.fa-heart, .fa-comment, .fa-paper-plane, .fa-bookmark {
+    font-size: 32px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fa-heart, .fa-comment, .fa-paper-plane {
+    margin-right: 5px;
+}
+
+footer {
+    width: 93%;
+    margin: auto;
+}
